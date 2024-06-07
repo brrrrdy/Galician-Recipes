@@ -35,9 +35,17 @@ h1 {
     color: rgb(81, 92, 235);
 }
 
+h1:hover {
+    color: rgb(129, 135, 233);
+}
+
 h2 {
     font-size: 70px;
     color: indianred;
+}
+
+h2:hover {
+    color: rgb(204, 136, 136);;
 }
 
 h3 {
@@ -48,6 +56,11 @@ h3 {
     padding-bottom: 0px;
     padding-left: 15px;
 }
+
+h3:hover {
+    color: rgb(204, 136, 136);;
+}
+
 
 .top {
     margin-bottom: 5px; 
